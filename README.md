@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @contrastjc (Julio Contreras)
-- 👀 I want to become a Front End Developer
-- 🌱 I’m currently learning Javascript from scratch.
+- 👀 I want to become an Android Developer
+- 🌱 I’m currently learning the basics about Kotlin programming language.
 
